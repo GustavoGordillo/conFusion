@@ -4,11 +4,7 @@
     <list default="true" id="1ac4064e-f4f9-4393-82a9-0c92c90bb128" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,33 +19,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>ul</find>
-      <find>ul&gt;</find>
-      <find>body</find>
-      <find>bg-primary</find>
-      <find>our history</find>
-      <find>nav var</find>
-      <find>nav</find>
-      <find>img</find>
-      <find>jum</find>
-      <find>alberto</find>
-      <find>start</find>
-      <find>w</find>
-      <find>utha</find>
-      <find>card</find>
-      <find>wee</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="70" />
-    <option name="y" value="27" />
-    <option name="width" value="1850" />
-    <option name="height" value="1053" />
   </component>
   <component name="ProjectId" id="1OT9SRNL94OnarpT1VE3kgJXto4" />
   <component name="PropertiesComponent">
@@ -112,7 +83,8 @@
       <workItem from="1563151548782" duration="222000" />
       <workItem from="1563226109234" duration="1058000" />
       <workItem from="1563473270437" duration="17000" />
-      <workItem from="1563990723345" duration="1935000" />
+      <workItem from="1563990723345" duration="5498000" />
+      <workItem from="1564496437638" duration="5783000" />
     </task>
     <servers />
   </component>
@@ -124,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
